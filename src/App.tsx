@@ -1,5 +1,5 @@
 import { useState } from 'react'
-import styles from './App.module.css'
+import styles from './app.module.css'
 import poweredImage from './assets/powered.png'
 import { levels, calculateImc, Level } from './helpers/imc'
 import { GridItem } from './components/Griditem/index'
